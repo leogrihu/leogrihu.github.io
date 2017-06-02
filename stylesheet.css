@@ -23,11 +23,7 @@ h2{
   height:200px;
   border-radius:100%;
 }
-#name{
 
-  font-size:40px;
-
-}
 #about{
   width: auto;
     height: auto;
@@ -97,25 +93,24 @@ display: flex;
 	position:relative;
 	margin:15px;
 	width:auto;
-	height:175px;
+	height:auto;
 	padding:10px;
 }
 .knowledge ul li{
 float:left;
 width:300px;
-height:150px;
+height:auto;
 }
 
 
 
 .header{
- 
-	width: auto;
-    height: 50%;
-    background-size: auto ;
-  	background-color: #000;
-    font-family: 'Dosis', cursive;
-    color: #fff;
+  width: auto;
+  height: 50%;
+   background-size: auto ;
+  background-color: #000;
+  font-family: 'Dosis', cursive;
+  color: #fff;
   text-align:center!important;
   font-size:30px;
   padding:25px;
